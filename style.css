@@ -1,0 +1,25 @@
+
+.heading
+{
+font-size: 23px;
+width: 100%;
+margin: 0px;
+}
+
+#status
+{
+font-size: 18px;
+}
+body{
+    background-size: 800px 800px;
+    background-position: center;
+}
+canvas{
+    margin-top: 50px;
+    box-shadow: 10px 10px 10px grey;
+    border-radius:10px;
+}
+#img1, #img2, #img3,#img4,#img5{
+    width:500px;
+   font-style: italic;
+}
